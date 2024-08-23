@@ -1,5 +1,7 @@
 # Assessment for Data Analysis
-This repo contains test case scenarios assessments for Data Analysis such that: <br />
+This Repo contains Branches such that : <br />
+Each Branch has Indivisual test case scenarios for Data Analysis which further contains <br />
 * Problem statement
 * Their  solutions
 * Documentatiion reports
+* Branch Desctiprion 
