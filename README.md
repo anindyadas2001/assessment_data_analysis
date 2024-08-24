@@ -7,6 +7,6 @@ I have practiced and solved few relevant problem statements regarging data analy
 <br />
 ### Each Branch has Indivisual test case scenarios for Data Analysis which further contains: <br />
 > Problem statement <br />
-> Their  solutions <br />
-> Documentatiion reports <br />
-> Branch Desctiprion <br />
+> Solutions & images <br />
+> Observation reports <br />
+> Readme.md <br />
