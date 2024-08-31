@@ -9,5 +9,5 @@
 > Readme.md <br />
 
 ## Problem Statement:
-![SVG file](Data-Analyst-Intern-Assignment.svg)
+![image](Data-Analyst-Intern-Assignment.jpg)
 
